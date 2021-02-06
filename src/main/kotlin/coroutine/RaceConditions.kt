@@ -1,4 +1,4 @@
-package hello.coroutine
+package coroutine
 
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.async
